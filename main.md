@@ -4,7 +4,6 @@ Welcome to my certification repository!
 This repo highlights my journey and achievements in **Google Cloud** and **Amazon AWS**, verified via **Credly**.
 
 ---
-![Google Cloud Badge](https://example.com/badge-image.png)
 
 ## 📜 Google Cloud Skill Badges
 
@@ -23,7 +22,8 @@ Here are the Google Cloud badges I have earned:
 > *More badges coming soon as I continue to learn and grow!*
 
 ---
-
+![GCP](https://github.com/sidortal/OBB-Expansion/blob/main/GreenGCP.gif)
+![Google Cloud Badge](https://github.com/sidortal/OBB-Expansion/blob/main/Screenshot%202025-04-28%20154512.png)
 ## ☁️ Amazon AWS Certifications
 
 My AWS credentials include:
@@ -33,7 +33,8 @@ My AWS credentials include:
 | Cloud Ops| Amazon Web Services (AWS) | [Verify](https://www.credly.com/badges/e0746fcb-49ca-420a-b3de-fbfe78225a0c/public_url) |
 | Networking| Amazon Web Services (AWS) | [Verify](https://www.credly.com/badges/659194dc-75b1-4cd8-9de3-de65dfc40026/public_url) |
 
-![AWS Badges](https://example.com/badge-image.png)
+![AWS](https://github.com/sidortal/OBB-Expansion/blob/main/AWS.gif)
+![AWS Badges](https://github.com/sidortal/OBB-Expansion/blob/main/Screenshot%202025-04-28%20154119.png)
 
 ---
 
